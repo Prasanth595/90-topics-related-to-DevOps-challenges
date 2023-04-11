@@ -2,9 +2,9 @@
 This is a blog series focused on exploring the challenges faced by DevOps teams. Each blog post will cover a specific challenge and provide insights on how to overcome it.
 
 ### Table of Contents
-- [Introduction to DevOps challenges](/DAY-01/)
-- [Challenges in implementing DevOps in legacy systems]()
-- [Security challenges in DevOps]()
+- [Introduction to DevOps challenges](DAY-01/)
+- [Challenges in implementing DevOps in legacy systems](DAY-02/)
+- [Security challenges in DevOps](DAY-03/)
 - [The challenge of balancing speed and quality in DevOps]()
 - [DevOps challenges for distributed teams]()
 - [Challenges in automating the deployment pipeline]()
