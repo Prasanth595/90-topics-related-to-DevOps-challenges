@@ -7,7 +7,7 @@ This is a blog series focused on exploring the challenges faced by DevOps teams.
 - [Security challenges in DevOps](DAY-03/)
 - [The challenge of balancing speed and quality in DevOps](DAY-04/)
 - [DevOps challenges for distributed teams](DAY-05/)
-- [Challenges in automating the deployment pipeline]()
+- [Challenges in automating the deployment pipeline](DAY-06/)
 - [Scaling DevOps practices across large organizations]()
 - [The challenge of maintaining DevOps culture across teams]()
 - [Monitoring and observability challenges in DevOps]()
