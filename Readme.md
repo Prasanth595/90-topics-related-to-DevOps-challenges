@@ -9,7 +9,7 @@ This is a blog series focused on exploring the challenges faced by DevOps teams.
 - [DevOps challenges for distributed teams](DAY-05/prasantha595_medium_com_day-05-devops-challenges-for-distributed-teams-72d4345e89cb.pdf)
 - [Challenges in automating the deployment pipeline](DAY-06/prasantha595_medium_com_day-06-challenges-in-automating-the-deployment-pipeline-ef7b13e668e8.pdf)
 - [Scaling DevOps practices across large organizations](DAY-07/prasantha595_medium_com_day-07-scaling-devops-practices-across-large-organizations-a48d293f4d7b.pdf)
-- [The challenge of maintaining DevOps culture across teams]()
+- [The challenge of maintaining DevOps culture across teams](DAY-08/prasantha595_medium_com_day-08-the-challenge-of-maintaining-devops-culture-across-teams-d333becc3ebe.pdf)
 - [Monitoring and observability challenges in DevOps]()
 - [Challenges in implementing containerization in DevOps]()
 - [The challenge of managing microservices in DevOps]()
