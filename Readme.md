@@ -2,13 +2,13 @@
 This is a blog series focused on exploring the challenges faced by DevOps teams. Each blog post will cover a specific challenge and provide insights on how to overcome it.
 
 ### Table of Contents
-- [Introduction to DevOps challenges](DAY-01/)
-- [Challenges in implementing DevOps in legacy systems](DAY-02/)
-- [Security challenges in DevOps](DAY-03/)
-- [The challenge of balancing speed and quality in DevOps](DAY-04/)
-- [DevOps challenges for distributed teams](DAY-05/)
-- [Challenges in automating the deployment pipeline](DAY-06/)
-- [Scaling DevOps practices across large organizations]()
+- [Introduction to DevOps challenges](DAY-01/prasantha595_medium_com_day-01-introduction-to-devops-challenges-574f0da47285.pdf)
+- [Challenges in implementing DevOps in legacy systems](DAY-02/prasantha595_medium_com_day-02-challenges-in-implementing-devops-in-legacy-systems-71714fd53170.pdf)
+- [Security challenges in DevOps](DAY-03/prasantha595_medium_com_day-03-security-challenges-in-devops-aaee04cfd3f4.pdf)
+- [The challenge of balancing speed and quality in DevOps](DAY-04/prasantha595_medium_com_day-04-the-challenge-of-balancing-speed-and-quality-in-devops-efcdf3d1a30.pdf)
+- [DevOps challenges for distributed teams](DAY-05/prasantha595_medium_com_day-05-devops-challenges-for-distributed-teams-72d4345e89cb.pdf)
+- [Challenges in automating the deployment pipeline](DAY-06/prasantha595_medium_com_day-06-challenges-in-automating-the-deployment-pipeline-ef7b13e668e8.pdf)
+- [Scaling DevOps practices across large organizations](DAY-07/prasantha595_medium_com_day-07-scaling-devops-practices-across-large-organizations-a48d293f4d7b.pdf)
 - [The challenge of maintaining DevOps culture across teams]()
 - [Monitoring and observability challenges in DevOps]()
 - [Challenges in implementing containerization in DevOps]()
